@@ -1,0 +1,10 @@
+4/21:
+	-Set up game board
+	-Made scoring work
+	-Made paddles move
+4/22:
+	-Generated ball
+	-Made ball move
+	-Made ball bounce
+	-Improved paddle movement
+	-Added new directions for ball to move in
